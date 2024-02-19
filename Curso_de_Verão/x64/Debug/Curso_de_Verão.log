@@ -1,0 +1,11 @@
+﻿  FileName.cpp
+C:\Users\aluno\source\repos\Curso_de_Verão\Curso_de_Verão\FileName.cpp(8,1): warning C4326: tipo de retorno de 'main' deve ser 'int' em vez de 'void'
+C:\Users\aluno\source\repos\Curso_de_Verão\Curso_de_Verão\FileName.cpp(17,16): warning C4244: '=': conversão de 'double' para 'float', possível perda de dados
+C:\Users\aluno\source\repos\Curso_de_Verão\Curso_de_Verão\FileName.cpp(25,24): warning C4244: '=': conversão de 'double' para 'float', possível perda de dados
+C:\Users\aluno\source\repos\Curso_de_Verão\Curso_de_Verão\FileName.cpp(32,17): warning C4244: '=': conversão de 'double' para 'float', possível perda de dados
+C:\Users\aluno\source\repos\Curso_de_Verão\Curso_de_Verão\FileName.cpp(40,25): warning C4244: '=': conversão de 'double' para 'float', possível perda de dados
+C:\Users\aluno\source\repos\Curso_de_Verão\Curso_de_Verão\FileName.cpp(47,17): warning C4244: '=': conversão de 'double' para 'float', possível perda de dados
+C:\Users\aluno\source\repos\Curso_de_Verão\Curso_de_Verão\FileName.cpp(55,25): warning C4244: '=': conversão de 'double' para 'float', possível perda de dados
+C:\Users\aluno\source\repos\Curso_de_Verão\Curso_de_Verão\FileName.cpp(63,17): warning C4244: '=': conversão de 'double' para 'float', possível perda de dados
+C:\Users\aluno\source\repos\Curso_de_Verão\Curso_de_Verão\FileName.cpp(71,25): warning C4244: '=': conversão de 'double' para 'float', possível perda de dados
+  Curso_de_Verão.vcxproj -> C:\Users\aluno\source\repos\Curso_de_Verão\x64\Debug\Curso_de_Verão.exe

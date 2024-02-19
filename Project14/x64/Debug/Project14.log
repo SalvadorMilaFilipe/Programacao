@@ -1,0 +1,3 @@
+﻿  FileName.cpp
+C:\Users\aluno\source\repos\Project14\Project14\FileName.cpp(6,1): warning C4326: tipo de retorno de 'main' deve ser 'int' em vez de 'void'
+  Project14.vcxproj -> C:\Users\aluno\source\repos\Project14\x64\Debug\Project14.exe

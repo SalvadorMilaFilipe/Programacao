@@ -1,0 +1,3 @@
+﻿  FileName.cpp
+C:\Users\aluno\source\repos\cifra de césar\cifra de césar\FileName.cpp(6,1): warning C4326: tipo de retorno de 'main' deve ser 'int' em vez de 'void'
+  cifra de césar.vcxproj -> C:\Users\aluno\source\repos\cifra de césar\x64\Debug\cifra de césar.exe

@@ -1,0 +1,7 @@
+﻿  FileName.cpp
+C:\Users\aluno\source\repos\Caminhada\Caminhada\FileName.cpp(1,10): warning C4067: tokens inesperados após diretiva de pré-processador - esperado um newline
+C:\Users\aluno\source\repos\Caminhada\Caminhada\FileName.cpp(2,10): warning C4067: tokens inesperados após diretiva de pré-processador - esperado um newline
+C:\Users\aluno\source\repos\Caminhada\Caminhada\FileName.cpp(8,47): warning C4101: 'Baixo': variável local não referenciada
+C:\Users\aluno\source\repos\Caminhada\Caminhada\FileName.cpp(8,41): warning C4101: 'Alto': variável local não referenciada
+C:\Users\aluno\source\repos\Caminhada\Caminhada\FileName.cpp(8,53): warning C4101: 'Patamar': variável local não referenciada
+  Caminhada.vcxproj -> C:\Users\aluno\source\repos\Caminhada\x64\Debug\Caminhada.exe
